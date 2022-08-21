@@ -107,3 +107,5 @@ grep -v "#" results/vcf/SLGFSK-T_231336_final_variants.vcf | wc -l
 samtools index results/bam/SLGFSK-N_231335.aligned.sorted.bam
 samtools tview results/bam/SLGFSK-N_231335.aligned.sorted.bam datasets/ref_genome/hg19.chr5_12_17.fa
 
+done
+
